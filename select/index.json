@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "勇者（feat. 初音ミク）",
+  "base_artist": "タカオカミズキ",
+  "createdAt": "2026-01-10T12:21:47.782207Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勇者 (feat. 初音ミク) [Cover]",
+      "artist": "タカオカミズキ",
+      "has_synced": false,
+      "path": "select/pl_01_勇者_(feat._初音ミク)_[Cover]_タカオカミズキ.txt"
+    }
+  ]
+}
